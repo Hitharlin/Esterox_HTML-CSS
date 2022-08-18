@@ -1,0 +1,13 @@
+html, body {
+    font-family: 'Figtree', sans-serif;
+    background-color: var(--background-light);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1130px;
+    margin: 0 auto;
+}
+
+

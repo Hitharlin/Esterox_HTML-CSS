@@ -1,0 +1,72 @@
+.teamwork {
+    /* height: 100vh;   */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+};
+
+
+
+.teamwork-content {
+    display: inline-block;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.teamwork__description {
+    width: 630px;
+}
+
+.teamwork__title {
+    display: inline-block;
+    font-size: 28px;
+    color: var(--primary);
+    margin-bottom: 6px;
+}
+
+.teamwork__subtitle {
+    font-size: 64px;
+    font-weight: 700;
+    color: var(--secondary);
+    margin-bottom: 30px;
+}
+
+.teamwork__details {
+    color: var(--secondary-light);
+    margin-bottom: 42px;
+    line-height: 32px;
+
+}
+
+.teamwork__button {
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.teamwork__button-icon {
+    margin-left: 19px;
+}
+
+.teamwork__image-wrapper {
+    display: inline-block;
+    width: 50%;
+    margin-right: 79px;
+}
+
+.teamwork__image {
+    width: 100%;
+    display: block;
+}
+
+
+.teamwork__box {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: flex-start;
+}
+
+.teamwork {
+    margin-bottom: 203px;
+}

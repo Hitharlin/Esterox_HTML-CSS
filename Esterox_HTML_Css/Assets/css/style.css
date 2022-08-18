@@ -1,0 +1,24 @@
+/* Fonts */
+@import url("../fonts/fonts.css");
+
+/* Variables */
+@import url("./var.css");
+
+/* UI */
+@import url("./UI/button.css");
+
+
+@import url("./main.css");
+
+/* sections */
+@import url("./sections/header.css");
+@import url("./sections/intro.css");
+@import url("./sections/services.css");
+@import url("./sections/design.css");
+@import url("./sections/teamwork.css");
+@import url("./sections/testimonial.css");
+@import url("./sections/blog.css");
+@import url("./sections/footer.css");
+
+
+
